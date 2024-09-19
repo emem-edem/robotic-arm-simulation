@@ -3,6 +3,13 @@
 ## Introductions
 Welcome to my Robotic Arm Simulation project! This project simulates the behavior of a robotic arm using Panda-Gym and training robots using stable-Baseline algorithms. It's designed for educational purposes and showcases my interest in robotics and automation. After this I would push the trained agent and the code to the Hub with a nice video replay and an evaluation score. 
 
+**Technologies:**
+- **Languages/Frameworks:** Python, Panda-Gym, Stable-Baselines
+- **Reinforcement Learning:** Q-Learning, DQN
+- **Control Algorithms:** PID, machine learning-based control
+- **Simulation & Visualization:** OpenAI Gym, GUI-based interactive control
+- **Automation Tools:** ROS (Robot Operating System), Matplotlib for performance evaluation
+
 ## Features
 Realistic robotic arm simulation
 Multiple control algorithms (e.g., PID, machine learning-based control)
